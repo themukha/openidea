@@ -1,8 +1,1 @@
-<!-- Copyright 2000-2024 JetBrains s.r.o. and contributors. Use of this source code is governed by the Apache 2.0 license. -->
-<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M7 9L9 6" stroke="#CED0D6"/>
-<path d="M7.5 11L10.5 12" stroke="#CED0D6"/>
-<rect x="2.5" y="8.5" width="5" height="5" rx="0.5" fill="#43454A" stroke="#CED0D6"/>
-<rect x="10.5347" y="10.502" width="2.99854" height="2.99805" rx="0.5" fill="#43454A" stroke="#CED0D6"/>
-<rect x="8.53467" y="2.49414" width="4" height="4.00488" rx="0.5" fill="#43454A" stroke="#CED0D6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 16 16"><path stroke="#CED0D6" d="M7 9L9 6"/><path stroke="#CED0D6" d="M7.5 11L10.5 12"/><rect width="5" height="5" x="2.5" y="8.5" fill="#43454A" stroke="#CED0D6" rx=".5"/><rect width="2.999" height="2.998" x="10.535" y="10.502" fill="#43454A" stroke="#CED0D6" rx=".5"/><rect width="4" height="4.005" x="8.535" y="2.494" fill="#43454A" stroke="#CED0D6" rx=".5"/></svg>
